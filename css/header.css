@@ -7,27 +7,24 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 32px 70px;
+  width: 1440px;
+  height: 94px;
 }
 
-.h1 {
+.header h1 {
   font-family: "Cabin";
   font-style: normal;
   font-weight: 500;
-  font-size: 1.1614rem;
+  font-size: 26px;
   line-height: 31px;
   color: #161616;
+  padding: 32px 0px 31px 97px;
 }
 
-.header-menu {
-  display: flex;
-  gap: 30px;
-}
-
-.material-symbols-outlined,
-.material-symbols-outlined,
-.material-symbols-outlined {
-  color: #5ca720;
+.perfil img {
+  width: 138px;
+  height: 23px;
+  margin: 36px 70px 34px 0px;
 }
 
 .banner {

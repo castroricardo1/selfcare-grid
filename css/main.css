@@ -11,6 +11,7 @@
   width: 303px;
   height: 303px;
   object-fit: cover;
+  border-radius: 5px;
 }
 
 .produtos h3 {
