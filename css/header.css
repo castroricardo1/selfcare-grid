@@ -1,0 +1,59 @@
+.container {
+  max-height: 94px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 70px;
+}
+
+.h1 {
+  font-family: "Cabin";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.1614rem;
+  line-height: 31px;
+  color: #161616;
+}
+
+.header-menu {
+  display: flex;
+  gap: 30px;
+}
+
+.material-symbols-outlined,
+.material-symbols-outlined,
+.material-symbols-outlined {
+  color: #5ca720;
+}
+
+.banner {
+  max-height: 375px;
+}
+
+.promo {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 33px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 28px;
+  border-bottom: 0.2px solid #a5a1a1;
+}
+
+.p1 {
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.p2 {
+  font-family: "Lato";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.6px;
+}

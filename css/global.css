@@ -1,0 +1,22 @@
+body {
+  max-width: 1440px;
+  margin: 0px;
+  color: #161616;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
