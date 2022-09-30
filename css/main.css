@@ -1,9 +1,10 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 20vw);
-  padding: 50px 70px;
-  grid-gap: 12.18rem;
+  grid-template-rows: repeat(3, 1fr);
+  padding: 57px 70px 7.25rem;
+  grid-column-gap: 12.18rem;
+  grid-row-gap: 4.06rem;
 }
 
 .grid img {
