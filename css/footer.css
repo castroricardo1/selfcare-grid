@@ -1,5 +1,4 @@
 .footer {
-  padding: 2.5rem 4.81rem 3.12rem;
   background-color: #f9f9f9;
   border-bottom: 0.2px solid #a5a1a1;
   border-top: 0.2px solid #a5a1a1;
@@ -8,25 +7,36 @@
   grid-column-start: 1;
   grid-column-end: 2;
   align-items: center;
+  height: 216px;
+  display: flex;
+  justify-content: space-between;
 }
 
+
 .footer h1 {
+  margin-left: 70px;
   font-family: "Lato";
   font-weight: 600;
   font-size: 1.25rem;
   line-height: 24px;
-  padding-top: 10px;
+  font-style: normal;
+  margin-bottom: 10px;
 }
 
 .footer-sub1 {
-  font-family: "Lato";
+  font-family: "Lato", sans-serif;
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
+  margin-right: 70px;
 }
 
 .footer-sub2 {
   padding-top: 18px;
+}
+
+input::placeholder{
+  color: #a8a4a4;
 }
 
 .footer-sub2 input {
@@ -38,7 +48,7 @@
   font-family: "Lato";
   font-weight: 600;
   font-size: 20px;
-  color: #a8a4a4;
+  color: #161616;
 }
 
 .footer-sub2 a {

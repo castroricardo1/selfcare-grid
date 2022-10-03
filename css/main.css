@@ -2,14 +2,14 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  padding: 57px 70px 7.25rem;
-  grid-column-gap: 12.18rem;
-  grid-row-gap: 4.06rem;
+  margin: 57px 70px 116px 70px;
+  grid-column-gap: 12.188rem;
+  grid-row-gap: 65px;
 }
 
 .grid img {
-  width: 303px;
-  height: 303px;
+  width: 445px;
+  height: 445px;
   object-fit: cover;
   border-radius: 5px;
 }
